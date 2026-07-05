@@ -1,0 +1,4 @@
+scheme_name,fund_house,category,risk_grade,sharpe_ratio,return_1yr_pct,return_3yr_pct,return_5yr_pct,expense_ratio_pct,morningstar_rating
+Kotak Emerging Equity Fund - Regular - Growth,Kotak Mahindra MF,Mid Cap,High,0.96,17.12,18.23,17.75,1.56,4
+ICICI Pru Midcap Fund - Regular - Growth,ICICI Prudential MF,Mid Cap,High,0.95,14.02,18.08,17.55,1.36,3
+DSP Midcap Fund - Regular - Growth,DSP Mutual Fund,Mid Cap,High,0.9,14.12,17.16,19.0,1.61,4
